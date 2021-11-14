@@ -1,0 +1,14 @@
+Simple Coffee: 50 PKR
+Simple Coffee: 50 PKR
+Total Bill: 100
+Total Bill: 50
+Sandwich: 100 PKR
+Total Bill: 100
+Sandwich: 100 PKR
+Total Bill: 150
+Total Bill: 50
+Total Bill: 100
+Simple Coffee: 50 PKR
+Sandwich: 100 PKR
+Simple Coffee: 50 PKR
+Sandwich: 100 PKR

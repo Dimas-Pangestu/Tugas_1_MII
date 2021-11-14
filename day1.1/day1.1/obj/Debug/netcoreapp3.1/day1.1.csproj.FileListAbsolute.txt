@@ -1,0 +1,13 @@
+/Users/dimaspangestu/Projects/day1.1/day1.1/bin/Debug/netcoreapp3.1/day1.1.deps.json
+/Users/dimaspangestu/Projects/day1.1/day1.1/bin/Debug/netcoreapp3.1/day1.1.runtimeconfig.json
+/Users/dimaspangestu/Projects/day1.1/day1.1/bin/Debug/netcoreapp3.1/day1.1.runtimeconfig.dev.json
+/Users/dimaspangestu/Projects/day1.1/day1.1/bin/Debug/netcoreapp3.1/day1.1.dll
+/Users/dimaspangestu/Projects/day1.1/day1.1/bin/Debug/netcoreapp3.1/day1.1.pdb
+/Users/dimaspangestu/Projects/day1.1/day1.1/obj/Debug/netcoreapp3.1/day1.1.csproj.AssemblyReference.cache
+/Users/dimaspangestu/Projects/day1.1/day1.1/obj/Debug/netcoreapp3.1/day1.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dimaspangestu/Projects/day1.1/day1.1/obj/Debug/netcoreapp3.1/day1.1.AssemblyInfoInputs.cache
+/Users/dimaspangestu/Projects/day1.1/day1.1/obj/Debug/netcoreapp3.1/day1.1.AssemblyInfo.cs
+/Users/dimaspangestu/Projects/day1.1/day1.1/obj/Debug/netcoreapp3.1/day1.1.csproj.CoreCompileInputs.cache
+/Users/dimaspangestu/Projects/day1.1/day1.1/obj/Debug/netcoreapp3.1/day1.1.dll
+/Users/dimaspangestu/Projects/day1.1/day1.1/obj/Debug/netcoreapp3.1/day1.1.pdb
+/Users/dimaspangestu/Projects/day1.1/day1.1/obj/Debug/netcoreapp3.1/day1.1.genruntimeconfig.cache
